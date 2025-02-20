@@ -45,7 +45,7 @@ function DashboardOverview() {
   const fetchMetrics = async () => {
     setLoading(true);
     try {
-      const response = await axios.get('http://localhost:5000/api/dashboard-metrics', { params: filters });
+      const response = await axios.get('https://customer-engagment-dashboard-backend.onrender.com/api/dashboard-metrics', { params: filters });
       setMetrics(response.data);
       setError(null);
     } catch (err) {

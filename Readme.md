@@ -36,14 +36,14 @@ cd dashboard-project
 ```sh
 cd frontend
 npm install  # or yarn install
-npm start  # Runs the frontend on localhost:3000
+npm start  # Runs the frontend 
 ```
 
 ### Setup Backend (Assuming Express.js API)
 ```sh
 cd backend
 npm install  # or yarn install
-npm start  # Runs the backend on localhost:5000
+npm start  # Runs the backend 
 ```
 
 ## API Endpoint

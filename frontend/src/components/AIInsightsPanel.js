@@ -2,12 +2,13 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './AIInsightsPanel.css';
 
+
 function AIInsightsPanel() {
   const [insights, setInsights] = useState(null);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/ai-insights')
+    axios.get('https://customer-engagment-dashboard-backend.onrender.com/api/ai-insights')
       .then(res => setInsights(res.data))
       .catch(err => {
         console.error(err);

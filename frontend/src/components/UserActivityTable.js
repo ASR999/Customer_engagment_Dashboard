@@ -18,7 +18,7 @@ function UserActivityTable() {
   const itemsPerPage = 5;
 
   const fetchUsers = () => {
-    axios.get('http://localhost:5000/api/users', { params: filters })
+    axios.get('https://customer-engagment-dashboard-backend.onrender.com/api/users', { params: filters })
       .then(res => {
         setUsers(res.data.users);
         setError(null);
