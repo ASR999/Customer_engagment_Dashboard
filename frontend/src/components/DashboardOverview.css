@@ -1,0 +1,19 @@
+.container {
+  background-color: #1e1e2f; /* Dark Mode Background */
+  color: #ffffff; /* White Text */
+}
+
+.MuiPaper-root {
+  background-color: #fbfbff !important; /* Paper Component */
+  color: #ffffff !important;
+}
+
+.MuiTypography-root {
+  color: #0894aa !important; /* Change heading colors */
+}
+
+.MuiCircularProgress-root {
+  color: #ff4081 !important; /* Loader Color */
+}
+
+  

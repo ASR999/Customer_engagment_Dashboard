@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "lastLogin": "2025-02-18T08:00:00Z",
+      "engagementScore": 75,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "lastLogin": "2025-02-17T10:00:00Z",
+      "engagementScore": 45,
+      "retentionCategory": "Low"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "lastLogin": "2025-02-16T12:00:00Z",
+      "engagementScore": 60,
+      "retentionCategory": "Medium"
+    }
+  ]
+}

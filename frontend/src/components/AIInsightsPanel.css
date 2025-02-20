@@ -1,0 +1,9 @@
+.ai-insights-panel {
+    padding: 10px;
+  }
+  
+  .ai-insights-panel .suggestions ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
