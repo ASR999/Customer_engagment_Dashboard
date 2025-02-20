@@ -73,19 +73,12 @@ GET /api/dashboard-metrics
 ```
 
 ## Usage
-1. Open `http://localhost:3000` in the browser.
-2. Use filters to modify the displayed data.
-3. View key engagement insights and churn predictions.
+1. Use filters to modify the displayed data.
+2. View key engagement insights and churn predictions.
 
 ## Screenshots
-(Screenshot placeholders - Add actual images here)
-
-## License
-This project is licensed under the MIT License.
-
-## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+(Screenshots)
 
 ---
-Made with ❤️ using React & Express.js
+Made using React & Express.js
 
