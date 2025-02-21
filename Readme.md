@@ -76,9 +76,6 @@ GET /api/dashboard-metrics
 1. Use filters to modify the displayed data.
 2. View key engagement insights and churn predictions.
 
-## Screenshots
-(Screenshots)
-
 ---
 Made using React & Express.js
 
